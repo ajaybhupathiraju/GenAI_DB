@@ -3,17 +3,17 @@ Build a Gen AI application to answer the customer queries by fetching data from 
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Application-ui](#application-ui)
 
 
   ## Project Overview
+  Connect a local MySQL database using LangChain and build a sample Generative AI application that answers user queries about customer orders, leveraging natural language processing to interact with structured data seamlessly.
   
-  This aims to provide insights of the most common cardiovascular disease in peoples.Heart disease is the leading cause of death in the many conuntries.
-  There are many different factors that can make to develop heart disease like age,sex,chest pain type,resting blood pressure,cholesterol and fasting blood sugar etc.
-  we build a ml model to predict given person is having a heart disease or not.
-
   ## Data Sources
+  ![alt text](database.jpg)
+
+  ## Application UI
+  ![alt text](Gen_AI_Connect_DB.jpg)
+  
 
 
-![alt text](images/Attributes.jpg)
-
-![alt text](images/attribute_description.jpg)
