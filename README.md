@@ -12,7 +12,9 @@ Build a Gen AI application to answer the customer queries by fetching data from 
 
   ## Tools
   LLM - ChatOpenAI
-  agent - sql_agent
+  
+  agent - langchain sql agent
+  
   database - MySQL
   
   ## Data Sources
